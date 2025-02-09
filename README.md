@@ -1,45 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cupid's Deals - Privacy Policy</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            max-width: 800px;
-            margin: 0 auto;
-            padding: 20px;
-            color: #333;
-        }
-        .header {
-            text-align: center;
-            margin-bottom: 40px;
-        }
-        .logo {
-            width: 100px;
-            height: 100px;
-            margin-bottom: 20px;
-        }
-        h1 {
-            color: #d32f2f;
-        }
-        .contact {
-            background: #fff5f5;
-            padding: 20px;
-            border-radius: 8px;
-            margin-top: 40px;
-        }
-    </style>
-</head>
-<body>
-    <div class="header">
-        <svg class="logo" viewBox="0 0 100 100">
-            <path d="M50 20c10-14 35-14 45 2 5 8 4 18 0 27L50 100 5 49c-4-9-5-19 0-27 10-16 35-16 45-2z" fill="#ff4081"/>
-        </svg>
-        <h1>Cupid's Deals Privacy Policy</h1>
-    </div>
+
 
     <h2>1. Information Collection</h2>
     <p>Cupid's Deals is committed to protecting your privacy. Our Chrome extension:</p>
